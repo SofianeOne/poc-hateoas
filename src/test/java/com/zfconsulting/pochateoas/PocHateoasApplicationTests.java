@@ -10,4 +10,8 @@ class PocHateoasApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void testMethod() throws Exception {
+		throw new Exception();
+	}
 }
