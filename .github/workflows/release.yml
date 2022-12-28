@@ -2,7 +2,7 @@ name: Release
 
 on:
   workflow_run:
-    workflows: [ "Integration" ]
+    workflows: [Integration]
     types:
       - completed
 
