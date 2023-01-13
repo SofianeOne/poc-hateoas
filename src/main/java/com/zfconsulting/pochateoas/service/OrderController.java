@@ -2,7 +2,6 @@ package com.zfconsulting.pochateoas.service;
 
 import com.zfconsulting.pochateoas.controller.CustomerController;
 import com.zfconsulting.pochateoas.model.Order;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.config.EnableHypermediaSupport;
 import org.springframework.http.ResponseEntity;
